@@ -1,0 +1,251 @@
+# Tech Careers Research Project
+
+**Team Members:**
+
+**Date:** 
+
+**Submission Guidelines:** Your team can work on this together but you all have to get a copy of it and push it to your GitHub repo, main folder/repo htmlCssJavaScript, in a subfolder you will call **"careerResearchProject"**.  This will be just a copy and filled out version of this markdown file.  You're just filling in the questions with your own added text. 
+
+
+## Introduction
+
+The skills you're learning in this class—programming, databases, web design, and AI/ML—open doors to many different career paths. While you might think "tech job" means one thing, the reality is much more diverse. Some roles focus heavily on writing code, others on analyzing data, and still others on designing user experiences or building intelligent systems.
+
+In this project, you'll research **different career paths** to understand:
+- What professionals in these roles actually *do* day-to-day
+- What education and skills are required
+- What the career outlook and salary ranges look like
+- Which aspects of your current coursework connect to each role
+
+Your goal is to explore **3 careers** as a team and compare them to help you think about potential future paths.
+
+---
+
+## Research Resources
+
+Use these trusted sources for your research:
+
+### General Career Information
+- **Bureau of Labor Statistics (BLS)**: https://www.bls.gov/ooh/computer-and-information-technology/home.htm
+- **O*NET Online**: https://www.onetonline.org/ (search by job title)
+- **CareerOneStop**: https://www.careeronestop.org/
+
+### Salary Information
+- **BLS Wage Data**: https://www.bls.gov/oes/current/oes_nat.htm
+- **Glassdoor**: https://www.glassdoor.com/Salaries/index.htm
+- **PayScale**: https://www.payscale.com/
+
+### Job Descriptions & Skills
+- **LinkedIn Jobs**: https://www.linkedin.com/jobs/
+- **Indeed Career Guide**: https://www.indeed.com/career-advice
+
+---
+
+## Career Paths to Research
+
+Choose **3** of the following careers to research in depth:
+
+1. **Software Engineer/Developer**
+2. **Web Developer (Front-End/Back-End/Full-Stack)**
+3. **Data Scientist**
+4. **Database Administrator (DBA)**
+5. **Machine Learning Engineer**
+6. **Data Analyst**
+
+---
+
+## Career Research Template
+
+Complete this section for each career you research. Copy and paste this template as needed.
+
+### Career #1:
+
+#### What They Do
+Describe the main responsibilities and daily tasks: A software developer/engineer designs, builds, tests, and maintains software systems and applications
+
+
+
+
+#### Required Education & Skills
+- **Minimum Education:** : A bachelor's degree in computer science, software engineering, or a related field
+- **Recommended Education:** : A bacherlor's degree in computer science, software engineering, or a related field is the standered. Some roles also may require a master's degree
+- **Key Technical Skills:**: programming languages, data structures and algortihms, version control 
+
+
+- **Important Soft Skills:**: strong communication, problem-solving, adaptability, and teamwork
+
+
+#### Salary Information
+- **Entry-Level Salary Range:**: $65,000 to $120,000
+- **Mid-Career Salary Range:** : $115,000 to $165,000
+- **Senior-Level Salary Range:** : $122,500 to $179,500
+
+#### Job Outlook
+- **Growth Rate (next 10 years):**  15%-17%
+- **Demand Level:**: high, with projected growth much faster than average
+
+#### Connection to Your Coursework
+Which of your current classes/skills connect to this career?
+- [ ] Programming
+- [ ] SQL/Databases
+- [ ] Web Design
+- [ ] AI/ML
+ALL OF THEM ARE CONNECTED
+
+**How they connect:**
+Yes, Artificial Intelligence (AI) and software engineering are deeply connected and increasingly intertwined disciplines
+Yes, web design and software engineering are closely connected, with web development being a specific discipline within the broader field of software engineering
+Yes, SQL is deeply connected with software engineering, as it's a fundamental language for interacting with relational databases, which are used in many applications
+Yes, programming is a core component of software engineering, but software engineering is a much broader discipline. Software engineering involves the systematic process of designing, developing, testing, and maintaining software, while programming is the specific act of writing code to implement those designs. 
+
+#### Interesting Facts or Notes
+What surprised you or seemed interesting about this career? nothing
+
+
+
+
+---
+
+### Career #2:Data Analyst
+
+#### What They Do
+Describe the main responsibilities and daily tasks: A data analyst collects, processes, and interprets large datasets to identify trends, patterns, and insights that help organizations make informed decisions. Their work involves cleaning and analyzing data, using statistical tools, and creating reports or visualizations to communicate findings to stakeholders. The ultimate goal is to solve business problems and improve outcomes, such as boosting efficiency, guiding strategy, and increasing revenue. 
+
+
+
+
+#### Required Education & Skills
+- **Minimum Education:** : A bachelor's degree in a related field like computer science, statistics, or data analytics
+- **Recommended Education:**: A bachelor's degree in a related field like computer science, statistics, mathematics, economics, or data science
+- **Key Technical Skills:** : Technical skills for a data analyst include SQL for database management, proficiency in tools like Microsoft Excel, and statistical programming languages such as Python or R
+
+
+- **Important Soft Skills:** : Key soft skills for a data analyst include critical thinking, communication, and problem-solving, which are essential for turning complex data into actionable insights and presenting them effectively
+
+
+#### Salary Information
+- **Entry-Level Salary Range:**: The entry-level data analyst salary varies significantly by location, but the national average is around $66,421 per year, while a typical range can be from $33,000 to $81,518. Hourly rates can range from approximately $26 to $38 depending on the city and other factors, according to data from sites like ZipRecruiter and Indeed. 
+- **Mid-Career Salary Range:**: Entry-level data analyst salaries generally range from $50,000 to $75,000 annually, while mid-career salaries are typically between $70,000 and $90,000. These figures can vary based on location, experience, industry, and specific skills. 
+- **Senior-Level Salary Range:**: An entry-level data analyst salary is around \(\$22\) per hour, while a senior data analyst salary averages approximately $111,145 per year in Ohio, with a national average for senior roles around \(\$111,145\). Entry-level salaries can increase to approximately $64,000 per year in cities like Columbus, while senior roles can reach \(\$120,000+\) or even higher depending on location, industry, and specific skills. 
+
+#### Job Outlook
+- **Growth Rate (next 10 years):**: 23%
+- **Demand Level:**: high
+
+#### Connection to Your Coursework
+Which of your current classes/skills connect to this career?
+- [ ] Programming
+- [ ] SQL/Databases
+- [ ] Web Design
+- [ ] AI/ML
+ALL EXCEPT WEB DESIGN
+**How they connect:**
+Yes, a data analyst's role is strongly connected to programming, which is used for handling large datasets, automating tasks, and performing complex analysis and visualization. While some entry-level roles may rely more on tools like Excel or Tableau, a strong foundation in programming languages like SQL and Python is essential for efficiency and advanced work, especially as datasets grow. 
+Yes, data analysts extensively use SQL (Structured Query Language) to connect with and interact with data. SQL is a fundamental tool for data analysts for several key reasons
+Data analysts and web designers are distinct but collaborative roles, where data analysts provide insights into user behavior to improve a website's design and user experience. While data analysts focus on analyzing website metrics and trends, web designers use this data to make informed decisions about site structure, navigation, and overall user interface.
+AI connects with data analysts by automating routine tasks, providing faster processing, and uncovering patterns, which enhances their ability to focus on higher-level strategic thinking. Instead of replacing analysts, AI acts as a collaborative tool, with the analyst using their critical thinking and contextual understanding to validate AI-driven insights and drive business decisions. This creates a symbiotic relationship where data analysts can leverage AI to amplify their impact. 
+
+
+#### Interesting Facts or Notes
+What surprised you or seemed interesting about this career?: none
+
+
+
+
+---
+
+### Career #3:
+
+#### What They Do
+Describe the main responsibilities and daily tasks:
+
+
+
+
+#### Required Education & Skills
+- **Minimum Education:** 
+- **Recommended Education:** 
+- **Key Technical Skills:** 
+
+
+- **Important Soft Skills:** 
+
+
+#### Salary Information
+- **Entry-Level Salary Range:** 
+- **Mid-Career Salary Range:** 
+- **Senior-Level Salary Range:** 
+
+#### Job Outlook
+- **Growth Rate (next 10 years):** 
+- **Demand Level:** 
+
+#### Connection to Your Coursework
+Which of your current classes/skills connect to this career?
+- [ ] Programming
+- [ ] SQL/Databases
+- [ ] Web Design
+- [ ] AI/ML
+
+**How do they connect:** (fill in your answer below)
+
+
+
+
+#### Interesting Facts or Notes
+What surprised you or seemed interesting about this career? (fill in your answer below)
+
+
+
+
+---
+
+## Career Comparison & Reflection
+
+### Comparison Table
+Create a quick comparison of the careers you researched:
+
+| Career Title | Starting Salary | Education Required | Most Important Skill | Job Growth |
+|-------------|-----------------|-------------------|---------------------|-----------|
+|title 1 |salary 1 |ed 1 |skill 1 | growth potential 1|
+|title 2|salary 2 |ed 2| skill 2 | growth potential 2|
+|title 3 |salary 3 |ed 3 |skill 3 | growth potential 3|
+
+### Team Discussion Questions (Fill in your answers)
+
+**1. Which career was most interesting to your team and why?**
+
+
+
+
+**2. Which career seems like the best fit for someone who loves the programming/coding aspects of this class?**
+
+
+
+
+**3. Which career seems like the best fit for someone who prefers working with data and analysis?**
+
+
+
+
+**4. What surprised you most about these careers?**
+
+
+
+
+**5. Based on your research, what additional skills or knowledge would be valuable to develop?**
+
+
+
+
+---
+
+## Additional Comments
+
+**Time spent researching:** 
+
+
+**Most helpful resource:** 
+
+
+**Questions you still have:**
