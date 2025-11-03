@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Business Card</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eceff1;
+            padding: 50px;
+        }
+        
+        .card {
+            max-width: 400px;
+            margin: 0 auto;
+            background: linear-gradient(135deg, #71ea66 0%, #4b95a2 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+
+        .card:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transform: scale(1.05);
+            transition: box-shadow 1s ease;
+        }
+        
+        .card h2 {
+            margin: 0 0 5px 0;
+            font-size: 28px;
+        }
+        
+        .card .title {
+            font-size: 16px;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+        
+        .card .info {
+            margin: 10px 0;
+            font-size: 14px;
+        }
+        
+        .card .company {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255,255,255,0.3);
+            font-weight: bold;
+        }
+
+        .card .socialmedia {
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 1px solid rgba(255, 255, 255, 0.3);
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div id="card"></div>
+    
+    <script>
+        // Business card information
+        let fullName = "Max Higgins";
+        let jobTitle = "Web Developer";
+        let company = "MCCC";
+        let email = "Whatthejohn35@thatslegtiness.com";
+        let phone = "(41)";
+        let website = "67.com";
+        let address = "6741 John street"
+
+        
+        // Select the card container
+        let cardDiv = document.getElementById('card');
+        
+        // Build the card HTML using template literals
+        let cardHTML = `
+            <h2>${fullName}</h2> <img src="/images/images.jpg">
+            <div class="title">${jobTitle}</div>
+            <div class="info">📧 ${email}</div>
+            <div class="info">📱 ${phone}</div>
+            <div class="info">🌐 ${website}</div>
+            <div class="info">🥸 ${address}</div>
+            <div class="company">${company}</div>
+        `;
+        
+        // Add the card class to the div
+        cardDiv.classList.add('card');
+        cardDiv.classList
+        
+        // Insert the HTML
+        cardDiv.innerHTML = cardHTML;
+        
+        console.log('Business card created for', fullName);
+    </script>
+</body>
+</html>
