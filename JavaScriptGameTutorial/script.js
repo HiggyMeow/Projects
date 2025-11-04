@@ -9,25 +9,42 @@ const cellGap = 3;
 const gameGid = [];
 
 //game board
-//projectiles
 const controlsBar = {
     width: canvas.width,
     height: cellSize,
 }
+
 class Cell {
     constructor(x, y){
         this.x = x;
         this.y = y;
         this.width = cellSize;
         this.height = cellSize;
-
     }
+    
+
     draw(){
         ctx.strokeStyle = 'black';
         ctx.strokeStyle(this.x, this.y, this.width, this.height);
-        s
     }
 }
+
+function createGrid(){
+    for (let y = cellSize; y < canvas.height; y += cellSize)
+        for (let x = 0; x < canvas.width; x += cellSize){
+            gameGrid.push(new Cell(x, y));
+    }
+}
+createGrid();
+function handleGameGrid(){
+    for (let i = 0; i < gameGrid.length; i++){
+        gameGrid[i].draw();
+    }
+}
+console.log(gameGrid)
+//projectiles
+
+
 //defenders
 //enemies
 //resources
@@ -35,6 +52,7 @@ class Cell {
 function animate(){
     ctx.fillStyle = 'blue';
     ctx.fillRect(0,0,controlsBar.width,controlsBar.height);
+    handleGameGrid();
     requestAnimationFrame(animate);
 }
 animate();
